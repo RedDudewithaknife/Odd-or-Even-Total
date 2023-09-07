@@ -1,2 +1,21 @@
-# Odd-or-Even-Total
-Total Number is a calculator like game that sums 1 to the number you placed but instead you can chose the sum to be odd or even
+# Odd or Even Total
+
+An even more complex calculator
+
+## Description
+
+Similar to Total number but counts only odd or only even
+
+### Dependencies
+
+* PC
+
+### Executing program
+
+Press the green flag
+
+## Authors
+
+* Bennedict
+
+yourlocalhomelessman2#0390
